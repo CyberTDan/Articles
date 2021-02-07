@@ -1,0 +1,417 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.1.8)  7 FEB 2021 01:06
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**article.tex
+(./article.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen135
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen136
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count175
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count176
+\leftroot@=\count177
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count178
+\DOTSCASE@=\count179
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen137
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count180
+\c@MaxMatrixCols=\count181
+\dotsspace@=\muskip16
+\c@parentequation=\count182
+\dspbrk@lvl=\count183
+\tag@help=\toks15
+\row@=\count184
+\column@=\count185
+\maxfields@=\count186
+\andhelp@=\toks16
+\eqnshift@=\dimen138
+\alignsep@=\dimen139
+\tagshift@=\dimen140
+\tagwidth@=\dimen141
+\totwidth@=\dimen142
+\lineht@=\dimen143
+\@envbody=\toks17
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks19
+\thm@bodyfont=\toks20
+\thm@headfont=\toks21
+\thm@notefont=\toks22
+\thm@headpunct=\toks23
+\thm@preskip=\skip52
+\thm@postskip=\skip53
+\thm@headsep=\skip54
+\dth@everypar=\toks24
+)
+(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2020/01/17 v1.23 mathematical typesetting tools
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks25
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count187
+\calc@Bcount=\count188
+\calc@Adimen=\dimen144
+\calc@Bdimen=\dimen145
+\calc@Askip=\skip55
+\calc@Bskip=\skip56
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count189
+\calc@Cskip=\skip57
+)
+(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count190
+\l_MT_multwidth_dim=\dimen146
+\origjot=\skip58
+\l_MT_shortvdotswithinadjustabove_dim=\dimen147
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen148
+\l_MT_above_intertext_sep=\dimen149
+\l_MT_below_intertext_sep=\dimen150
+\l_MT_above_shortintertext_sep=\dimen151
+\l_MT_below_shortintertext_sep=\dimen152
+)
+(/usr/share/texlive/texmf-dist/tex/latex/was/icomma.sty
+Package: icomma 2002/03/10 v2.0 (WaS)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/euscript.sty
+Package: euscript 2009/06/22 v3.00 Euler Script fonts
+LaTeX Font Info:    Overwriting math alphabet `\EuScript' in version `bold'
+(Font)                  U/eus/m/n --> U/eus/b/n on input line 33.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen153
+\Gin@req@width=\dimen154
+)
+(/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen155
+\WF@size=\dimen156
+\c@WF@wrappedlines=\count191
+\WF@box=\box47
+\WF@everypar=\toks26
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count192
+\l__pdf_internal_box=\box48
+)
+(./article.aux)
+\openout1 = `article.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count193
+\scratchdimen=\dimen157
+\scratchbox=\box49
+\nofMPsegments=\count194
+\nofMParguments=\count195
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count196
+\MPscratchDim=\dimen158
+\MPnumerator=\count197
+\makeMPintoPDFobject=\count198
+\everyMPtoPDFconversion=\toks28
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Trying to load font information for U+msa on input line 64.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 64.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 64
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+
+LaTeX Warning: No \author given.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+
+pdfTeX warning: /usr/bin/pdflatex (file ./images/sensor_1.pdf): PDF inclusion: 
+found PDF version <1.7>, but at most version <1.5> allowed
+<images/sensor_1.pdf, id=8, 597.23125pt x 845.1575pt>
+File: images/sensor_1.pdf Graphic file (type pdf)
+<use images/sensor_1.pdf>
+Package pdftex.def Info: images/sensor_1.pdf  used on input line 141.
+(pdftex.def)             Requested size: 89.58081pt x 126.76814pt.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./images/sensor_2.pdf): PDF inclusion: 
+found PDF version <1.7>, but at most version <1.5> allowed
+<images/sensor_2.pdf, id=9, 597.23125pt x 845.1575pt>
+File: images/sensor_2.pdf Graphic file (type pdf)
+<use images/sensor_2.pdf>
+Package pdftex.def Info: images/sensor_2.pdf  used on input line 145.
+(pdftex.def)             Requested size: 89.58081pt x 126.76814pt.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./images/sensor_3.pdf): PDF inclusion: 
+found PDF version <1.7>, but at most version <1.5> allowed
+<images/sensor_3.pdf, id=10, 597.23125pt x 845.1575pt>
+File: images/sensor_3.pdf Graphic file (type pdf)
+<use images/sensor_3.pdf>
+Package pdftex.def Info: images/sensor_3.pdf  used on input line 149.
+(pdftex.def)             Requested size: 89.58081pt x 126.76814pt.
+[2]
+<images/Diagram.pdf, id=22, 551.7373pt x 285.89008pt>
+File: images/Diagram.pdf Graphic file (type pdf)
+<use images/Diagram.pdf>
+Package pdftex.def Info: images/Diagram.pdf  used on input line 175.
+(pdftex.def)             Requested size: 386.21349pt x 200.12167pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[3 <./images/sensor_1.pdf> <./images/sensor_2.pdf> <./images/sensor_3.pdf>]
+[4 <./images/Diagram.pdf>]
+Overfull \hbox (8.32082pt too wide) in paragraph at lines 214--215
+[]\OT1/cmr/m/n/12 To sim-plify com-pu-ta-tions co-or-di-nate sys-tem of pix-els
+ counter should
+ []
+
+[5]
+
+pdfTeX warning: /usr/bin/pdflatex (file ./images/im5.pdf): PDF inclusion: found
+ PDF version <1.7>, but at most version <1.5> allowed
+<images/im5.pdf, id=58, 460.72125pt x 252.19218pt>
+File: images/im5.pdf Graphic file (type pdf)
+<use images/im5.pdf>
+Package pdftex.def Info: images/im5.pdf  used on input line 239.
+(pdftex.def)             Requested size: 322.50267pt x 176.53331pt.
+
+Overfull \hbox (131.40053pt too wide) in paragraph at lines 239--239
+ [] 
+ []
+
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./images/im6.pdf): PDF inclusion: found
+ PDF version <1.7>, but at most version <1.5> allowed
+<images/im6.pdf, id=59, 368.87813pt x 256.70906pt>
+File: images/im6.pdf Graphic file (type pdf)
+<use images/im6.pdf>
+Package pdftex.def Info: images/im6.pdf  used on input line 243.
+(pdftex.def)             Requested size: 258.21292pt x 179.6951pt.
+
+Overfull \hbox (67.11078pt too wide) in paragraph at lines 243--243
+ [] 
+ []
+
+[6 <./images/im5.pdf> <./images/im6.pdf>] [7]
+Overfull \hbox (31.74889pt too wide) detected at line 346
+[][]
+ []
+
+[8]
+
+pdfTeX warning: /usr/bin/pdflatex (file ./images/im1.pdf): PDF inclusion: found
+ PDF version <1.7>, but at most version <1.5> allowed
+<images/im1.pdf, id=73, 339.51843pt x 250.68657pt>
+File: images/im1.pdf Graphic file (type pdf)
+<use images/im1.pdf>
+Package pdftex.def Info: images/im1.pdf  used on input line 395.
+(pdftex.def)             Requested size: 237.66127pt x 175.47939pt.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./images/im2.pdf): PDF inclusion: found
+ PDF version <1.7>, but at most version <1.5> allowed
+<images/im2.pdf, id=74, 140.77594pt x 140.77594pt>
+File: images/im2.pdf Graphic file (type pdf)
+<use images/im2.pdf>
+Package pdftex.def Info: images/im2.pdf  used on input line 405.
+(pdftex.def)             Requested size: 112.62088pt x 112.62088pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[9 <./images/im1.pdf>]
+
+pdfTeX warning: /usr/bin/pdflatex (file ./images/im3.pdf): PDF inclusion: found
+ PDF version <1.7>, but at most version <1.5> allowed
+<images/im3.pdf, id=79, 677.53125pt x 564.60938pt>
+File: images/im3.pdf Graphic file (type pdf)
+<use images/im3.pdf>
+Package pdftex.def Info: images/im3.pdf  used on input line 414.
+(pdftex.def)             Requested size: 203.26094pt x 169.38411pt.
+[10 <./images/im2.pdf> <./images/im3.pdf>]
+
+pdfTeX warning: /usr/bin/pdflatex (file ./images/vehicle.pdf): PDF inclusion: f
+ound PDF version <1.7>, but at most version <1.5> allowed
+<images/vehicle.pdf, id=85, 848.67522pt x 499.92276pt>
+File: images/vehicle.pdf Graphic file (type pdf)
+<use images/vehicle.pdf>
+Package pdftex.def Info: images/vehicle.pdf  used on input line 427.
+(pdftex.def)             Requested size: 424.33656pt x 249.96075pt.
+
+Overfull \hbox (34.33656pt too wide) in paragraph at lines 427--428
+ [] 
+ []
+
+[11 <./images/vehicle.pdf>]
+<images/line.pdf, id=90, 314.13359pt x 465.65968pt>
+File: images/line.pdf Graphic file (type pdf)
+<use images/line.pdf>
+Package pdftex.def Info: images/line.pdf  used on input line 440.
+(pdftex.def)             Requested size: 157.0664pt x 232.82927pt.
+<images/lineCont.pdf, id=91, 295.1025pt x 340.3917pt>
+File: images/lineCont.pdf Graphic file (type pdf)
+<use images/lineCont.pdf>
+Package pdftex.def Info: images/lineCont.pdf  used on input line 444.
+(pdftex.def)             Requested size: 191.81433pt x 221.25197pt.
+
+Overfull \hbox (0.71219pt too wide) in paragraph at lines 444--444
+ [] 
+ []
+
+[12 <./images/line.pdf> <./images/lineCont.pdf>] [13] (./article.aux) ) 
+Here is how much of TeX's memory you used:
+ 3121 strings out of 481239
+ 43721 string characters out of 5920378
+ 281880 words of memory out of 5000000
+ 18343 multiletter control sequences out of 15000+600000
+ 542900 words of font info for 68 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 30i,11n,27p,619b,476s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on article.pdf (13 pages, 1564664 bytes).
+PDF statistics:
+ 155 PDF objects out of 1000 (max. 8388607)
+ 98 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+
