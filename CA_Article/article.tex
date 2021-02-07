@@ -274,6 +274,7 @@ Exist to basic approach to control vehicle movement along a line by camera. The 
 		\begin{equation}
 			e^x = 1 + \frac{x}{1!} + \frac{x^2}{2!} + \ldots + \frac{x^n}{n!} + \ldots = \sum\limits_{i=1}^{\infty} \frac{x^n}{n!} \text{, } |x| < \infty
 		\end{equation}
+		
 
 		with sufficient accuracy, we can only use the first four terms.
 		%\vspace{6mm}
@@ -281,7 +282,7 @@ Exist to basic approach to control vehicle movement along a line by camera. The 
 		Deviation coefficient formula:
 
 		\begin{equation}
-			1 - \left ( \frac{x}{405}\right) + 
+			m(x) = 1 - \left ( \frac{x}{405}\right) + 
 			\frac{\left ( \frac{x}{405}\right) ^2}{2}  -
 			\frac{\left ( \frac{x}{405}\right)^3}{6}
 		\end{equation}
@@ -289,6 +290,7 @@ Exist to basic approach to control vehicle movement along a line by camera. The 
 		\begin{flushright}
 			\footnotesize Coefficient “405” is used for values normalization \\
 			$e$( 0.3, 1 ) to x( -1.066, 0 ), 430 = 405*1.066
+			
 		\end{flushright}
 		\vspace{1cm}
 		
@@ -341,7 +343,7 @@ Exist to basic approach to control vehicle movement along a line by camera. The 
 			&x
 			dx
 			dy\\
-			&\approx 1,88071 \times 10^7 
+			&\approx 1,96968 \times 10^7 
 		\end{aligned}
 		\end{equation}
 		
@@ -350,7 +352,7 @@ Exist to basic approach to control vehicle movement along a line by camera. The 
 		Required register size:
 		
 		\begin{equation}
-			\log_{2}1887100 \approx 24,16 \Rightarrow 25
+			\log_{2}19696800 \approx 24,23 \Rightarrow 25
 		\end{equation}
 		
 		\vspace{5mm}
@@ -359,7 +361,7 @@ Exist to basic approach to control vehicle movement along a line by camera. The 
 		
 		\begin{enumerate}
 			\item 
-			Shift to the right by 16 bits: (0;18807100) $\Rightarrow$ (0;286)
+			Shift to the right by 16 bits: (0;19696800) $\Rightarrow$ (0;300)
 			
 			\item 
 			limit the value to 255 if it exceeds
@@ -388,6 +390,7 @@ Exist to basic approach to control vehicle movement along a line by camera. The 
 \section*{Implementation}
 \noindent In our project we employ following devices and software tools:
 \begin{enumerate}
+	
 	\item 
 	Cyclone \RomanNumeralCaps{4} FPGA board based on Altera EP4CE6E22C8N chip of low-cost and low-power Cyclone \RomanNumeralCaps{4} FPGA device family. The board appearance shown on figure \ref{fig:im1}
 	
@@ -455,7 +458,7 @@ Also, to assess the resource consumption of the algorithm, we compiled the pixel
 
 \section*{Future improvements}  
 
-One of the main algorithm parameter is the threshold of binarization. It depends on the color of line, lightning and sensitivity of the camera. We going to implement additional algorithm in order to automatize threshold determining. An algorithm may use first few frames for computing stable threshold value. 
+One of the main algorithm parameter is the binarization threshold. It depends on the color of line, lightning and sensitivity of the camera. We going to implement additional algorithm in order to automatize threshold determining. An algorithm may use first few frames for computing stable threshold value. 
 
 Also, due to the pixel processing is done independently, it possible to handle several pixels simultaneously. The throughput of this approach will be determined from the number of parallel processing branches. To implement this idea, we also need to create a queue for incoming pixels. 
 

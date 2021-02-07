@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.1.8)  7 FEB 2021 01:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.1.8)  7 FEB 2021 11:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -322,7 +322,7 @@ Overfull \hbox (67.11078pt too wide) in paragraph at lines 243--243
  []
 
 [6 <./images/im5.pdf> <./images/im6.pdf>] [7]
-Overfull \hbox (31.74889pt too wide) detected at line 346
+Overfull \hbox (31.74889pt too wide) detected at line 348
 [][]
  []
 
@@ -333,7 +333,7 @@ pdfTeX warning: /usr/bin/pdflatex (file ./images/im1.pdf): PDF inclusion: found
 <images/im1.pdf, id=73, 339.51843pt x 250.68657pt>
 File: images/im1.pdf Graphic file (type pdf)
 <use images/im1.pdf>
-Package pdftex.def Info: images/im1.pdf  used on input line 395.
+Package pdftex.def Info: images/im1.pdf  used on input line 398.
 (pdftex.def)             Requested size: 237.66127pt x 175.47939pt.
 
 
@@ -342,7 +342,7 @@ pdfTeX warning: /usr/bin/pdflatex (file ./images/im2.pdf): PDF inclusion: found
 <images/im2.pdf, id=74, 140.77594pt x 140.77594pt>
 File: images/im2.pdf Graphic file (type pdf)
 <use images/im2.pdf>
-Package pdftex.def Info: images/im2.pdf  used on input line 405.
+Package pdftex.def Info: images/im2.pdf  used on input line 408.
 (pdftex.def)             Requested size: 112.62088pt x 112.62088pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -354,7 +354,7 @@ pdfTeX warning: /usr/bin/pdflatex (file ./images/im3.pdf): PDF inclusion: found
 <images/im3.pdf, id=79, 677.53125pt x 564.60938pt>
 File: images/im3.pdf Graphic file (type pdf)
 <use images/im3.pdf>
-Package pdftex.def Info: images/im3.pdf  used on input line 414.
+Package pdftex.def Info: images/im3.pdf  used on input line 417.
 (pdftex.def)             Requested size: 203.26094pt x 169.38411pt.
 [10 <./images/im2.pdf> <./images/im3.pdf>]
 
@@ -363,10 +363,10 @@ ound PDF version <1.7>, but at most version <1.5> allowed
 <images/vehicle.pdf, id=85, 848.67522pt x 499.92276pt>
 File: images/vehicle.pdf Graphic file (type pdf)
 <use images/vehicle.pdf>
-Package pdftex.def Info: images/vehicle.pdf  used on input line 427.
+Package pdftex.def Info: images/vehicle.pdf  used on input line 430.
 (pdftex.def)             Requested size: 424.33656pt x 249.96075pt.
 
-Overfull \hbox (34.33656pt too wide) in paragraph at lines 427--428
+Overfull \hbox (34.33656pt too wide) in paragraph at lines 430--431
  [] 
  []
 
@@ -374,15 +374,15 @@ Overfull \hbox (34.33656pt too wide) in paragraph at lines 427--428
 <images/line.pdf, id=90, 314.13359pt x 465.65968pt>
 File: images/line.pdf Graphic file (type pdf)
 <use images/line.pdf>
-Package pdftex.def Info: images/line.pdf  used on input line 440.
+Package pdftex.def Info: images/line.pdf  used on input line 443.
 (pdftex.def)             Requested size: 157.0664pt x 232.82927pt.
 <images/lineCont.pdf, id=91, 295.1025pt x 340.3917pt>
 File: images/lineCont.pdf Graphic file (type pdf)
 <use images/lineCont.pdf>
-Package pdftex.def Info: images/lineCont.pdf  used on input line 444.
+Package pdftex.def Info: images/lineCont.pdf  used on input line 447.
 (pdftex.def)             Requested size: 191.81433pt x 221.25197pt.
 
-Overfull \hbox (0.71219pt too wide) in paragraph at lines 444--444
+Overfull \hbox (0.71219pt too wide) in paragraph at lines 447--447
  [] 
  []
 
@@ -408,7 +408,7 @@ m/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on article.pdf (13 pages, 1564664 bytes).
+Output written on article.pdf (13 pages, 1565020 bytes).
 PDF statistics:
  155 PDF objects out of 1000 (max. 8388607)
  98 compressed objects within 1 object stream
